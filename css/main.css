@@ -1,0 +1,396 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.clear-4{
+	clear:both;
+}
+span#clear-4 {
+	clear: both;
+	height: 1px;
+
+}
+body{
+	text-align: center;
+	margin: 0 auto;
+}
+div#conatiner {
+	height: 2535px;
+	background: #000;
+	text-align: center;
+}
+header {
+	background: #F6F9F9;
+	height: 76px;
+	padding-top: 20px;
+	padding-left: 90px;
+}
+header span {
+	position: relative;
+	padding-left: 6px;
+	bottom: 11px;
+	font-size: 30px;
+	letter-spacing: 1px;
+	font-weight: bold;
+	color: #29364F;
+	font-family: 'Roboto', sans-serif;
+}
+#section-1 {
+	height: 800px;
+	background: url(..//img/bg12.png) center center no-repeat; ;
+	text-align: center;
+	background-size: cover;
+}
+#section-1 h1 {
+	padding-top: 180px;
+	color: #fff;
+	font-size: 114px;
+	font-family: Arial;
+	text-transform: uppercase;
+	padding-bottom: 18px;	
+}
+#section-1 hr {
+	border-color: #15A4FA;
+	margin: 0 auto;
+	width: 50%;
+	margin-top: -7px;
+	margin-bottom: 35px;
+}
+#section-1 p {
+	color: #fff;
+	font-family: Arial;
+	font-size: 19px;
+	font-weight: normal;
+}
+#section-1 input {
+	background: transparent;
+	padding: 8px 16px;
+	border-top: solid 2px #15A4FA;
+	border-left: solid 2px #15A4FA;
+	border-right:none;
+	border-bottom: none;
+	color: #fff;
+	margin-top: 30px;
+
+}
+
+/*///// end of section-1*/
+
+
+
+
+
+/*/////start of section-2 */
+
+#section-2 {
+	text-align: center;
+	height: 300px;
+	background: #F6F9F9;
+	color: #999999;
+}
+#section-2 h1 {
+	color: #2D3950;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 43px;
+	word-spacing: 3px;
+	letter-spacing: 1px;
+	padding-top: 69px;
+	letter-spacing: 2px;
+	margin-bottom: 35px;
+}
+#section-2 p {
+	font-size: 15px;
+	font-family: 'Lato', sans-serif;
+	word-spacing: 2px;
+	padding-bottom: 12px;
+}
+
+/*////// end of section-2*/
+
+
+
+
+/*////// start of section-3*/
+section#section-3 {
+	padding-left: 120px;
+	background: #FFFFFF;
+	height: 400px;
+}
+.box {
+	display: inline;
+	width: 29%;
+	/*border: solid 1px #000;*/
+	float: left;
+	height: 300px;
+	margin: 0 auto;
+	/*padding: 0 28px;*/
+	font-family: 'Lato', sans-serif;
+	/*margin-bottom: 1000px;*/
+	padding-top: 82px;
+	background: #FFFFFF;
+}
+div.box1 h2{
+	padding-left: 59px;
+}
+div.box2 h2 {
+	padding-left: 59px;
+	padding-top: -10px;
+}
+}
+.box img#img1, img#img2 {
+	padding-left: 37px;
+}
+.box img#img1 {
+	padding-left: 72px;
+}
+.box img#img2 {
+	position: relative;
+	left: 14px;
+}
+.box img#img3 {
+	position: relative;
+	left: 14px;
+}
+.box h2 {
+	padding-top: 28px;
+	padding-left: 85px;
+	font-size: 22px;
+	color: #2D3950;
+	font-weight: 600;
+	margin-bottom: 23px;
+}
+.box p {
+	color: #999999;
+	font-size: 16px;
+	padding-left: 65px;
+	line-height: 23px;
+}
+.box span {
+	text-transform: uppercase;
+}
+div.box2 h2{
+	padding-left: 31px;
+}
+
+/*///// end of section-3*/
+
+
+/*////// start of section-4*/
+
+
+
+#section-04 {
+	height: 190px;
+	background: #F6F9F9;
+	font-family: 'Lato', sans-serif;
+
+}
+
+#section-04 h1 {
+	color: #2D3950;
+	font-size: 39px;
+	padding-top: 55px;
+	font-weight: 600;
+	word-spacing: -4px;
+
+}
+div#section-04 p {
+	padding-top: 20px;
+	font-size: 15px;
+	word-spacing: -2px;
+	color: #90909D;
+}
+
+
+/*//////// end of section--4*/
+
+
+
+/*/////// start of section-5*/
+
+
+#section-5 {
+	height: 550px;
+	background: #F6F9F9;
+	padding-left: 120px;
+}
+
+div.box-s5 {
+	display: inline;
+	float: left;
+	height: 229px;
+	width: 337px;
+	/*border: solid 1px #000;*/
+	border-right: solid 49px #F6F9F9;
+	
+}
+div.box-s5-1 {
+	border-top: solid 40px #F6F9F9;
+	border-bottom: solid 40px #F6F9F9;
+
+}
+div.box--1 {
+	background: url(http://codifyacademy.com/week1/advanced/img/work6.png)top center no-repeat;
+	background-size: cover;
+}
+div.box--2 {
+	background: url(http://codifyacademy.com/week1/advanced/img/work2.png)top center no-repeat;
+	background-size: cover;
+}
+div.box--3 {
+	background: url(http://codifyacademy.com/week1/advanced/img/work3.png)top center no-repeat;
+	background-size: cover;
+}
+div.box--4 {
+	background: url(http://codifyacademy.com/week1/advanced/img/work4.png)top center no-repeat;
+	background-size: cover;
+}
+div.box--5 {
+	background: url(http://codifyacademy.com/week1/advanced/img/work5.png)top center no-repeat;
+	background-size: cover;
+}
+div.box--6 {
+	background: url(http://codifyacademy.com/week1/advanced/img/work6.png)top center no-repeat;
+	background-size: cover;
+}
+
+
+
+/*////// end of section-5*/
+
+
+
+
+/*//////// start of section-6*/
+
+div#section-6 {
+	height: 680px;
+	background: url(..//img/section-1-background-img.png) center center no-repeat;
+	text-align: center;
+}
+#section-6 {
+	height: 68px;
+	background: #F6F9F9;
+}
+#section-6 h1 {
+	color: #ECF9FF;
+	font-size: 39px;
+	letter-spacing: 1px;
+	font-weight: 100;
+	font-family: 'Lato', sans-serif;
+	padding-top: 185px;
+	word-spacing: -3px;
+}
+#section-6 p {
+	margin-bottom: 19px;
+	padding-top: 18px;
+	color: #999999;
+	font-size: 15px;
+	word-spacing: -2px;
+	font-family: 'Lato', sans-serif;
+
+}
+
+input[type=text] {
+	height: 41px;
+	width: 360px;
+	display: block;
+	margin: 0 auto;
+	background: transparent;
+	border: solid 1px #F6F9F9;
+	margin-bottom: 9px;
+	border-radius: 2px;
+
+}
+::placeholder {
+	color: #75756F;
+	padding-left: 8px;
+	font-size: 15px;
+}
+input[type=email] {
+	height: 41px;
+	width: 360px;
+	display: block;
+	margin: 0 auto;
+	background: transparent;
+	border: solid 1px #F6F9F9;
+	margin-bottom: 9px;
+	border-radius: 2px;
+}
+textarea {
+	height: 125px;
+	width: 360px;
+	display: block;
+	margin: 0 auto;
+	background: transparent;
+	border: solid 1px #F6F9F9;
+	margin-bottom: 9px;
+	border-radius: 2px;
+	margin-bottom: 60px;
+}
+textarea[value] {
+	color: #75756F;
+	position: relative;
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+	padding-top: 15px;
+
+}
+textarea span {
+	padding-left: 20px;
+
+
+}
+#section-6 span {
+	color: #FFFFE2;
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+	word-spacing: -1px;
+	padding-right:90px;
+	
+	
+}
+input[type="button"] {
+	background: transparent;
+	border: solid 1px #15A4FA;
+	padding: 11px 25px;
+	color: #fff;
+	border-radius: 2px;
+	position: relative;
+	bottom: 4px;
+	right: 20px;
+}
+
+/*////// end of section-6*/
+
+
+/*/////// start of section-7*/
+
+#section-7 {
+	height: 73px;
+	background: #F6F9F9;
+}
+span#left {
+	float: left;
+	font-family: 'Lato', sans-serif;
+	padding-top: 30px;
+	padding-left: 125px;
+	font-size: 16px;
+}
+span#links {
+position: relative;
+left: 350px;
+top: 20px;
+
+}
+#section-7 img {
+padding-right: 2px;
+}
+
+
+
+/*////// end of section-7*/
+
+input[type="button"]:hover {
+cursor: pointer;
+}
