@@ -27,7 +27,7 @@ header {
 }
 header span {
 	position: relative;
-	padding-left: 6px;
+	right: 1px;
 	bottom: 11px;
 	font-size: 30px;
 	letter-spacing: 1px;
